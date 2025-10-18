@@ -1,7 +1,7 @@
 import cv2
 from gelsight_helper import GelSightMini
 
-DEVICE_ID = 0
+DEVICE_ID = "/dev/v4l/by-id/usb-Arducam_Technology_Co.__Ltd._GelSight_Mini_R0B_28F5-K4RR_28F5K4RR-video-index0"
 img_w = 640 # Target FULLWIDTH
 img_h = 480 # Target FULLHEIGHT
 brd_frac_crop = 0.15 
