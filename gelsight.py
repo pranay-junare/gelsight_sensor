@@ -12,7 +12,8 @@ def main():
         device_idx=DEVICE_ID,
         target_width=img_w,
         target_height=img_h,
-        border_fraction=brd_frac_crop)
+        border_fraction=brd_frac_crop
+    )
 
     while True:
         img = gelsight.update()
