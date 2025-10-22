@@ -1,4 +1,4 @@
-# Gelsite data collection package
+# Gelsight data collection package
 
 ## Installation
 ```
